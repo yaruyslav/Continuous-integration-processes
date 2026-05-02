@@ -5,3 +5,5 @@
 Шлях до програми: app/main.py
 
 Шлях до тестів: tests/test_main.py
+
+Html-звіт знаходиться в Git-hub -> Actions -> останній workflow -> Artifacts -> посилання на завантаження
